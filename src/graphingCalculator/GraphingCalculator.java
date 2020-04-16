@@ -70,6 +70,7 @@ public class GraphingCalculator {
             animating = true;
         });
 
+
     }
 
     /**
